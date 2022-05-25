@@ -1,3 +1,6 @@
 # SOC-Report-Machine-Intelligence-by-Aashish-Tripathy
 by Aashish Tripathy 21B080001
-We started off with learning python which was easy to adapt to after doing C++. After installing anaconda, we proceeded to Jypiter Notebooks where we learnt creating, editing, executing and about the xheat sheets. Numpy and Pandas was explored on youtube 
+We started off with learning python which was easy to adapt to after doing C++. After installing anaconda, we proceeded to Jypiter Notebooks where we learnt creating, editing, executing and about the xheat sheets. Numpy was studied via youtube which taught us Slicing, broadcasting, trigonometric functions, exponent, rational, arithmetic operators etc among a lot else. The Git and Github part of course contained history and branches, setup, commands, workflow, repositories and a lot else. 
+
+The 3B1B series on Neural Networks helped develop the understanding and visualisation of a neural network and its minute intricacies via gradient dissent plot and other content with awesome graphics. After this we went on a deep dive in ML via deep learning playlist by Andrew NG where we learnt about Supervised learning, binary classification, activation function, gradient descent etc. 
+Now in the last week we have reached back propagation, regularisation, early stopping, hyper parameter tuning, softmax, rate decay etc. We concluded the week with detailed study of convolution and recurrent neural networks and TENSORFLOW.
