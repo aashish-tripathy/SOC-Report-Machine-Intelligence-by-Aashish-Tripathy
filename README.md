@@ -12,3 +12,26 @@ https://youtu.be/YRhxdVk_sIs
 https://youtu.be/LHXXI4-IEns
 https://youtu.be/Y2wfIKQyd1I 
 https://youtu.be/zfiSAzpy9NM
+
+#### Week 5
+
+This week we started with *Reinforcement Learning* & *Q Learning* and its <br>
+implementation in python.<br>
+Learnt about various types of RL, Model based & Model free methods. <br>
+Learnt about Markov Decision Processes, Temporal Differnces & the *Bellmann* <br>
+*Equation*
+
+#### Week 6
+
+We studied about *Open AI Gym Environment* and also implemented Reinforcement <br>
+Learning in various Gym environments like *Acrobat v1* and *Frozen Lake* 
+
+#### Week 7
+
+We were intorduced to *Deep Q Networks* <br>
+Learnt about Experience Replay & some Action-Selection Policies. <br>
+
+##### Also Started with the Final Poject......Week 8 & 9 :)
+
+### Thanks a lot to my mentors **Aziz & Tanmay** who guided me throuhout my project and helped me learn so much <3
+
