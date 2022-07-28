@@ -31,7 +31,6 @@ Learning in various Gym environments like *Acrobat v1* and *Frozen Lake*
 We were intorduced to *Deep Q Networks* <br>
 Learnt about Experience Replay & some Action-Selection Policies. <br>
 
-##### Also Started with the Final Poject......Week 8 & 9 :)
+##### Also Started with the Final Poject......Week 8 & 9 
 
-### Thanks a lot to my mentors **Aziz & Tanmay** who guided me throuhout my project and helped me learn so much <3
 
